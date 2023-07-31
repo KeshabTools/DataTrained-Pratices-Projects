@@ -28,5 +28,6 @@ public class LatticePointsOnCircumference {
     {
     	int r = 88;
     	System.out.println(countLattice(r));
+    	System.out.println("hii.......................");
     }
 }
